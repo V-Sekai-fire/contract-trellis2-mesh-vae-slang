@@ -4,7 +4,7 @@ A planned Slang and Lean 4 reimplementation of the TRELLIS.2 mesh-VAE encoder fo
 
 ## What it is for
 
-The encoder turns a mesh into structured latent tokens for content embeddings, without the vendor-specific sparse-convolution kernels the reference needs. Its kernels are to be stated in Lean 4 and emitted as Slang through `lean-slang`. The repository holds the scaffold and no code yet.
+The encoder turns a mesh into structured latent tokens for content embeddings, without the vendor-specific sparse-convolution kernels the reference needs. Its kernels are to be stated in Lean 4 and emitted as Slang through `contract-lean-slang`. The repository holds the scaffold and no code yet.
 
 ## Build and run
 
